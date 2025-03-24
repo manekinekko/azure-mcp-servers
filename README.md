@@ -1,5 +1,12 @@
 This directory showcases various Model Context Protocol (MCP) servers. These servers enable Large Language Models (LLMs) to securely access tools and data sources from Microsoft Azure.
 
+## AI
+
+### Azure AI Agent Service MCP Server
+This MCP server integrates with Azure AI Foundry to enable connections to your existing Azure AI Agents, utilizing the wide range of models and knowledge tools available within Azure AI Foundry, such as Azure AI Search and Bing Web Grounding.
+
+https://github.com/azure-ai-foundry/mcp-foundry
+
 ## Database
 
 ### Azure Cosmos DB MCP Server
